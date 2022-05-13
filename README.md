@@ -2,6 +2,6 @@
 Practice project based on BlackJack
 
 Project Team
-* Ownen (owner)
+* Owen (owner)
 * Alice (collaborator)
 * Bob (collaborator)
